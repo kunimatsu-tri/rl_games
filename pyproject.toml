@@ -18,7 +18,7 @@ psutil = "^5.9.0"
 setproctitle = "^1.2.2"
 ray = "^1.11.0"
 opencv-python = "^4.5.5"
-wandb = "^0.12.11"
+wandb = "^0.13.0"
 
 ale-py = {version = "^0.7", optional = true}
 AutoROM = {version = "^0.4.2", optional = true, extras = ["accept-rom-license"]}
